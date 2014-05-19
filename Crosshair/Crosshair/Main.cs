@@ -83,5 +83,43 @@ namespace Crosshair
             else
                 crosshair.BackgroundImage = Properties.Resources.green_point;
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+            X = Convert.ToInt32(hScrollBar1.Value);
+            textBox_X.Text = Convert.ToString(X);
+            crosshair.Location = new Point(X, Y);
+        }
+
+        private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
+        {
+            Y = Convert.ToInt32(vScrollBar1.Value);
+            textBox_Y.Text = Convert.ToString(Y);
+            crosshair.Location = new Point(X, Y);
+        }
+
+        private void tabControl1_Selected(object sender, TabControlEventArgs e)
+        {
+            switch (tabControl1.SelectedIndex.ToString())
+            {
+                case ("0"):
+                    this.Size = new Size(194, 214);
+                    tabControl1.Size = new Size(194, 189);
+                    break;
+                case ("1"):
+                    this.Size = new Size(471, 420);
+                    tabControl1.Size = new Size(471, 395);
+                    break;
+            }
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://tikhonex.ru");
+        }
     }
 }

@@ -1,0 +1,19 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\bin\Debug\Crosshair.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\bin\Debug\Crosshair.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.Properties.Resources.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.csproj.GenerateResource.Cache
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.Form2.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\obj\x86\Debug\Crosshair.Main.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Crosshair\bin\Debug\Crosshair.exe.config
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\bin\Debug\Crosshair.exe.config
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\bin\Debug\Crosshair.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\bin\Debug\Crosshair.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.Main.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.Form2.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.Properties.Resources.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.csproj.GenerateResource.Cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\Crosshair\Crosshair\obj\x86\Debug\Crosshair.csprojResolveAssemblyReference.cache
